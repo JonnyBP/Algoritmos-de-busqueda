@@ -1,1 +1,1 @@
-# Algoritmos-de-busqueda
+# Algoritmos de búsqueda
